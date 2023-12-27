@@ -7,10 +7,11 @@
 Before offically installing the water icons, here are some particular aspects to consider before doing so:
 
 1. This is simplified and easy.
-2. It will work on any operating system.
-3. Requires download from GitHub.
+2. It will work on any operating system, but on a desktop environment.
+3. Requires git to be installed on operating system (Cool installation).
+4. Requires download from GitHub (Manual Installation).
 
-# 🆒 Installation (Cool) 
+# 🆒 Installation (Cool) 🆒
 
 Copy this following code and paste it into your terminal or command line:
 
