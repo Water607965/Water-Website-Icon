@@ -10,7 +10,19 @@ Before offically installing the water icons, here are some particular aspects to
 2. It will work on any operating system.
 3. Requires download from GitHub.
 
-# 💾 Installation 💾
+# 🆒 Installation (Cool) 
+
+Copy this following code and paste it into your terminal or command line:
+
+```git clone git@github.com:Water607965/Water-Website-Icon.git```
+
+Afterwards, you can run the following command below, or locate the "Water-Wesbite-Icon" in your files application and locate the folder that holds the files.
+
+```open Water-Website-Icon```
+
+Finalization: Alright! You've successfully installed the files with ease using this method (If you did !) You can see other methods down below.
+
+# 💾 Installation (Manual) 💾
 
 1. Go to the code button on GitHub on this repository ("https://github.com/Water607965/Water-Website-Icon/assets/151555387/4ebc2668-3d05-493e-aa32-2c4a1c117725"), click that link to see an image of where the button is in case you are lost.
 2. Click "Download as Zip".
@@ -22,7 +34,7 @@ Before offically installing the water icons, here are some particular aspects to
 
 # ℹ️ Info ℹ️
 
-There is an enhanced and the original version (The icons, by the way, were created by OpenAI by myself and then enhanced) which are different from the other in terms of their image quality. The "normal" file will list the original and the "small size" one will indicate that it is the enhanced quality version.
+There is an enhanced and the original version (The icons, by the way, were created by OpenAI by myself and then enhanced) which are different from the other in terms of their image quality. The "normal" file will list the original and the "small size" one will indicate that it is the enhanced quality version. 
 
 # ✔️ Finish ✔️
 
