@@ -11,15 +11,24 @@ Before offically installing the water icons, here are some particular aspects to
 3. Requires git to be installed on operating system (Cool installation).
 4. Requires download from GitHub (Manual Installation).
 
-# 🆒 Installation (Cool) 🆒
+# 🆒 Installation (Cool) 🆒 !
 
-Copy this following code and paste it into your terminal or command line:
 
-```git clone git@github.com:Water607965/Water-Website-Icon.git```
+Note: You can go to this screenshot to view the screenshot that basically does this whole installation and is very simple. Go to the link here if you desire to: (https://github.com/Water607965/Water-Website-Icon/assets/151555387/d82206c8-3d90-4fe2-a9c7-83f5c7d3106a).
 
-Afterwards, you can run the following command below, or locate the "Water-Wesbite-Icon" in your files application and locate the folder that holds the files.
+Copy this following code and paste it into your terminal or command line and execute it:
 
-```open Water-Website-Icon```
+```git clone https://github.com/Water607965/Water-Website-Icon```
+
+Afterwards, go to this directory by pasting the command below:
+
+```cd Water-Website-Icon```
+
+Next, type the command below to navigate through the contents of the folder. You can press tab to navigate through them later.
+
+```ls```
+
+To locate the files natively in the terminal
 
 Finalization: Alright! You've successfully installed the files with ease using this method (If you did !) You can see other methods down below.
 
